@@ -3,9 +3,9 @@
 API feita com NestJS para gerenciamento de usuários (nome e e-mail).
 
 ## Authors
-> Diego Pereira de Jesus (diego.jesus@aluno.faculdadeimpacta.com.br)
-> Jeferson Borges dos Santos (jeferson.borges@aluno.faculdadeimpacta.com.br)
-> kaio Candido de Oliveira (kaio.candido@aluno.faculdadeimpacta.com.br)
+- Diego Pereira de Jesus (diego.jesus@aluno.faculdadeimpacta.com.br)
+- Jeferson Borges dos Santos (jeferson.borges@aluno.faculdadeimpacta.com.br)
+- kaio Candido de Oliveira (kaio.candido@aluno.faculdadeimpacta.com.br)
 
 
 ## Rotas

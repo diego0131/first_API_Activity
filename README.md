@@ -2,6 +2,12 @@
 
 API feita com NestJS para gerenciamento de usuários (nome e e-mail).
 
+## Authors
+> Diego Pereira de Jesus (diego.jesus@aluno.faculdadeimpacta.com.br)
+> Jeferson Borges dos Santos (jeferson.borges@aluno.faculdadeimpacta.com.br)
+> kaio Candido de Oliveira (kaio.candido@aluno.faculdadeimpacta.com.br)
+
+
 ## Rotas
 
 - `POST /users`: cria um usuário
@@ -10,10 +16,6 @@ API feita com NestJS para gerenciamento de usuários (nome e e-mail).
 - `DELETE /users/:id`: remove um usuário
 
 
-## Authors
-- Diego Pereira de Jesus (diego.jesus@aluno.faculdadeimpacta.com.br)
-- Jeferson Borges dos Santos (jeferson.borges@aluno.faculdadeimpacta.com.br)
-- kaio Candido de Oliveira (kaio.candido@aluno.faculdadeimpacta.com.br)
 
 ## Como rodar
 
